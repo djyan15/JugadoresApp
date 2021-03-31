@@ -11,3 +11,16 @@ C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Infrastructure\obj\Debug\net
 C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Core.dll
 C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Core.pdb
 C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Infrastructure\obj\Debug\netcoreapp3.1\Jugadores.Infrastructure.csproj.CopyComplete
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Infrastructure.deps.json
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Infrastructure.runtimeconfig.json
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Infrastructure.runtimeconfig.dev.json
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Infrastructure.dll
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Infrastructure.pdb
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Core.dll
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\bin\Debug\netcoreapp3.1\Jugadores.Core.pdb
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\obj\Debug\netcoreapp3.1\Jugadores.Infrastructure.csprojAssemblyReference.cache
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\obj\Debug\netcoreapp3.1\Jugadores.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\obj\Debug\netcoreapp3.1\Jugadores.Infrastructure.AssemblyInfo.cs
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\obj\Debug\netcoreapp3.1\Jugadores.Infrastructure.csproj.CopyComplete
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\obj\Debug\netcoreapp3.1\Jugadores.Infrastructure.dll
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Infrastructure\obj\Debug\netcoreapp3.1\Jugadores.Infrastructure.pdb

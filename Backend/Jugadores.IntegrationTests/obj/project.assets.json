@@ -6521,11 +6521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.IntegrationTests\\Jugadores.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.IntegrationTests\\Jugadores.IntegrationTests.csproj",
       "projectName": "Jugadores.IntegrationTests",
-      "projectPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.IntegrationTests\\Jugadores.IntegrationTests.csproj",
+      "projectPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.IntegrationTests\\Jugadores.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\b.rosario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.IntegrationTests\\obj\\",
+      "outputPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

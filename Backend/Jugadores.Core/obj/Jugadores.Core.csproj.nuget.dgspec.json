@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.Core\\Jugadores.Core.csproj": {}
+    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.Core\\Jugadores.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.Core\\Jugadores.Core.csproj": {
+    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.Core\\Jugadores.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.Core\\Jugadores.Core.csproj",
+        "projectUniqueName": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.Core\\Jugadores.Core.csproj",
         "projectName": "Jugadores.Core",
-        "projectPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.Core\\Jugadores.Core.csproj",
+        "projectPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.Core\\Jugadores.Core.csproj",
         "packagesPath": "C:\\Users\\b.rosario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.Core\\obj\\",
+        "outputPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

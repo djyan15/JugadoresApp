@@ -6,3 +6,11 @@ C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Core\obj\Debug\netcoreapp3.1
 C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.AssemblyInfo.cs
 C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.dll
 C:\Users\b.rosario\source\repos\Jugadores\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.pdb
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\bin\Debug\netcoreapp3.1\Jugadores.Core.deps.json
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\bin\Debug\netcoreapp3.1\Jugadores.Core.dll
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\bin\Debug\netcoreapp3.1\Jugadores.Core.pdb
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.csprojAssemblyReference.cache
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.AssemblyInfoInputs.cache
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.AssemblyInfo.cs
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.dll
+C:\Users\b.rosario\source\repos\Jugadores\Backend\Jugadores.Core\obj\Debug\netcoreapp3.1\Jugadores.Core.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj": {}
+    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj": {
+    "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj",
         "projectName": "Jugadores.UnitTests",
-        "projectPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj",
+        "projectPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.UnitTests\\Jugadores.UnitTests.csproj",
         "packagesPath": "C:\\Users\\b.rosario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Jugadores.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\b.rosario\\source\\repos\\Jugadores\\Backend\\Jugadores.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
